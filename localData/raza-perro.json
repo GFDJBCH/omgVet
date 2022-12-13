@@ -1,0 +1,1130 @@
+
+[
+  {
+    "tipo": "canina",
+    "raza": "Affenpinscher"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Airedale terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Akita"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Akita americano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Alaskan Husky"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Alaskan malamute"
+  },
+  {
+    "tipo": "canina",
+    "raza": "American Foxhound"
+  },
+  {
+    "tipo": "canina",
+    "raza": "American pit bull terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "American staffordshire terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Ariegeois"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Artois"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Australian silky terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Australian Terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Austrian Black & Tan Hound"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Azawakh"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Balkan Hound"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Basenji"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Basset Alpino (Alpine Dachsbracke)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Basset Artesiano Normando"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Basset Azul de Gascuña (Basset Bleu de Gascogne)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Basset de Artois"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Basset de Westphalie"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Basset Hound"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Basset Leonado de Bretaña (Basset fauve de Bretagne)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bavarian Mountain Scenthound"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Beagle"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Beagle Harrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Beauceron"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bedlington Terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bichón Boloñes"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bichón Frisé"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bichón Habanero"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Billy"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Black and Tan Coonhound"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bloodhound (Sabueso de San Huberto)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bobtail"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Boerboel"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Border Collie"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Border terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Borzoi"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bosnian Hound"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Boston terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bouvier des Flandres"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Boxer"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Boyero de Appenzell"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Boyero de Australia"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Boyero de Entlebuch"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Boyero de las Ardenas"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Boyero de Montaña Bernes"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Braco Alemán de pelo corto"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Braco Alemán de pelo duro"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Braco de Ariege"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Braco de Auvernia"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Braco de Bourbonnais"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Braco de Saint Germain"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Braco Dupuy"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Braco Francés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Braco Italiano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Broholmer"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Buhund Noruego"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bull terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bulldog americano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bulldog inglés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bulldog francés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Bullmastiff"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Ca de Bestiar"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cairn terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cane Corso"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cane da Pastore Maremmano-Abruzzese"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Caniche (Poodle)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Caniche Toy (Toy Poodle)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cao da Serra de Aires"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cao da Serra de Estrela"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cao de Castro Laboreiro"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cao de Fila de Sao Miguel"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cavalier King Charles Spaniel"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cesky Fousek"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cesky Terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Chesapeake Bay Retriever"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Chihuahua"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Chin"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Chow Chow"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cirneco del Etna"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Clumber Spaniel"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cocker Spaniel Americano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cocker Spaniel Inglés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Collie Barbudo"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Collie de Pelo Cort"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Collie de Pelo Largo"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Cotón de Tuléar"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Curly Coated Retriever"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Dálmata"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Dandie dinmont terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Deerhound"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Dobermann"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Dogo Argentino"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Dogo de Burdeos"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Dogo del Tibet"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Drentse Partridge Dog"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Drever"
+  },{
+  "tipo": "canina",
+  "raza": "Dunker"
+},
+  {
+    "tipo": "canina",
+    "raza": "Elkhound Noruego"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Elkhound Sueco"
+  },
+  {
+    "tipo": "canina",
+    "raza": "English Foxhound"
+  },
+  {
+    "tipo": "canina",
+    "raza": "English Springer Spaniel"
+  },
+  {
+    "tipo": "canina",
+    "raza": "English Toy Terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Epagneul Picard"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Eurasier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Fila Brasileiro"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Finnish Lapphound"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Flat Coated Retriever"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Fox terrier de pelo de alambre"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Fox terrier de pelo liso"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Foxhound Inglés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Frisian Pointer"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Galgo Español"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Galgo húngaro (Magyar Agar)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Galgo Italiano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Galgo Polaco (Chart Polski)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Glen of Imaal Terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Golden Retriever"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Gordon Setter"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Gos d'Atura Catalá"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Gran Basset Griffon Vendeano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Gran Boyero Suizo"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Gran Danés (Dogo Aleman)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Gran Gascón Saintongeois"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Gran Griffon Vendeano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Gran Munsterlander"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Gran Perro Japonés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Grand Anglo Francais Tricoleur"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Grand Bleu de Gascogne"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Greyhound"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Griffon Bleu de Gascogne"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Griffon de pelo duro (Grifón Korthals)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Griffon leonado de Bretaña"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Griffon Nivernais"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Grifon Belga"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Grifón de Bruselas"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Haldenstoever"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Harrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Hokkaido"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Hovawart"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Husky Siberiano (Siberian Husky)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Ioujnorousskaia Ovtcharka"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Irish Glen of Imaal terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Irish soft coated wheaten terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Irish terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Irish Water Spaniel"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Irish Wolfhound"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Jack Russell terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Jindo Coreano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Kai"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Keeshond"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Kelpie australiano (Australian kelpie)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Kerry blue terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "King Charles Spaniel"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Kishu"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Komondor"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Kooiker"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Kromfohrländer"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Kuvasz"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Labrador Retriever"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Lagotto Romagnolo"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Laika de Siberia Occidental"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Laika de Siberia Oriental"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Laika Ruso Europeo"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Lakeland terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Landseer"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Lapphund Sueco"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Lebrel Afgano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Lebrel Arabe (Sloughi)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Leonberger"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Lhasa Apso"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Lowchen (Pequeño Perro León)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Lundehund Noruego"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Malamute de Alaska"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Maltés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Manchester terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Mastiff"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Mastín de los Pirineos"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Mastín Español"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Mastín Napolitano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Mudi"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Norfolk terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Norwich terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Nova Scotia duck tolling retriever"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Ovejero alemán"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Otterhound"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Rafeiro do Alentejo"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Ratonero Bodeguero Andaluz"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Retriever de Nueva Escocia"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Rhodesian Ridgeback"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Ridgeback de Tailandia"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Rottweiler"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Saarloos"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso de Hamilton"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso de Hannover"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso de Hygen"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso de Istria"
+  },{
+  "tipo": "canina",
+  "raza": "Sabueso de Posavaz"
+},
+  {
+    "tipo": "canina",
+    "raza": "Sabueso de Schiller (Schillerstovare)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso de Smaland (Smalandsstovare)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso de Transilvania"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso del Tirol"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso Español"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso Estirio de pelo duro"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso Finlandés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso Francés blanco y negro"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso Francés tricolor"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso Griego"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso Polaco (Ogar Polski)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso Serbio"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso Suizo"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso Yugoslavo de Montaña"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sabueso Yugoslavo tricolor"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Saluki"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Samoyedo"
+  },
+  {
+    "tipo": "canina",
+    "raza": "San Bernardo"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sarplaninac"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Schapendoes"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Schipperke"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Schnauzer estándar"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Schnauzer gigante (Riesenschnauzer)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Schnauzer miniatura (Zwergschnauzer)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Scottish terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sealyham terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Segugio Italiano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Seppala Siberiano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Setter Inglés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Setter Irlandés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Setter Irlandés rojo y blanco"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Shar Pei"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Shiba Inu"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Shih Tzu"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Shikoku"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Skye terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Slovensky Cuvac"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Slovensky Kopov"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Smoushond Holandés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Spaniel Alemán (German Wachtelhund)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Spaniel Azul de Picardía"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Spaniel Bretón"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Spaniel de Campo"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Spaniel de Pont Audemer"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Spaniel Francés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Spaniel Tibetano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Spinone Italiano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Spítz Alemán"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Spitz de Norbotten (Norbottenspets)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Spitz Finlandés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Spitz Japonés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Staffordshire bull terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Staffordshire terrier americano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Sussex Spaniel"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Teckel (Dachshund)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Tchuvatch eslovaco"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Terranova (Newfoundland)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Terrier australiano (Australian terrier)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Terrier brasilero"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Terrier cazador alemán"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Terrier checo (Ceský teriér)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Terrier galés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Terrier irlandés (Irish terrier)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Terrier japonés (Nihon teria)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Terrier negro ruso"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Terrier tibetano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Tosa"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Viejo Pastor Inglés"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Viejo Pointer Danés (Old Danish Pointer)"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Vizsla"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Volpino Italiano"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Weimaraner"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Welsh springer spaniel"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Welsh Corgi Cardigan"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Welsh Corgi Pembroke"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Welsh terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "West highland white terrier"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Whippet"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Wirehaired solvakian pointer"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Xoloitzcuintle"
+  },
+  {
+    "tipo": "canina",
+    "raza": "Yorkshire Terrier"
+  }
+]
+
